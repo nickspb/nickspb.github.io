@@ -74,9 +74,7 @@ s {
     position: static;
     display: block;
     margin: 2% auto auto auto;
-    max-width: 40%;
-    min-width: 35%;
-    width: auto;
+    width: 50%;
   }
 
   .info-panel {
