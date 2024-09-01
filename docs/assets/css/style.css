@@ -42,10 +42,6 @@ s {
   border-radius: 25px;
 }
 
-img {
-  position: absolute;
-}
-
 .info-image {
   width: 20%;
   margin-top: 2%;
@@ -63,4 +59,8 @@ img {
   width: 15%;
   margin-left: 70%;
   position: absolute;
+}
+
+.date {
+  color: rgb(229, 181, 255);
 }
